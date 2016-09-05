@@ -208,4 +208,4 @@ if (input.startsWith(prefix + "MEME")) {
 
 });
 
-bot.loginWithToken("Insert token here");
+
