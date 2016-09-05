@@ -7,6 +7,9 @@ Before you can run this, you need to install a few things,
 This installs discord.js
 ``npm install tinyurl``
 This installs tinyurl (I have a url shortener command.)
+###cd desktop
+###git clone https://github.com/Quif/discord.js-v8-bot MyBot -b master 
+###cd    
 
 To run go in command prompt and type 
 ``node /Users/samjouhari/Desktop/MyBot.js`` for mac and 
