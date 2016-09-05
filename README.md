@@ -3,8 +3,8 @@ This was my personal bot for discord.js v.8 i am making this open source and goi
 
 # installation
 Before you can run this, you need to install a few things,/n
-``npm install npm install discord.js@8.1.0``/n
-This installs discord.js/n
+``npm install npm install discord.js@8.1.0``
+This installs discord.js
 ``npm install tinyurl``
 This installs tinyurl (I have a url shortener command.)
 
