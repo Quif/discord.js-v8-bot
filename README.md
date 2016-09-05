@@ -14,8 +14,8 @@ This installs tinyurl (I have a url shortener command.)
 ###cd    
 
 To run go in command prompt and type 
-``node /Users/samjouhari/Desktop/MyBot.js`` for mac and 
-``node "C:\Users\Username\desktop\MyBot.js"`` for windows.
+``node /Users/samjouhari/Desktop/MyBot/MyBot.js`` for mac and 
+``node "C:\Users\Username\desktop\MyBot\MyBot.js"`` for windows.
 
 # Command list (coming soon.)
 
