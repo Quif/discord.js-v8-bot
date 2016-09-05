@@ -2,7 +2,7 @@
 This was my personal bot for discord.js v.8 i am making this open source and going to make a discord.js v.9 bot.
 
 # installation
-Before you can run this, you need to install a few things,/n
+Before you can run this, you need to install a few things,
 ``npm install npm install discord.js@8.1.0``
 This installs discord.js
 ``npm install tinyurl``
